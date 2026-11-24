@@ -1,0 +1,42 @@
+2026-11-24 09:13:20,992 - INFO - backup start
+2026-11-24 09:13:20,992 - INFO - create folder
+2026-11-24 09:13:20,993 - INFO - Backup folder is ready
+2026-11-24 09:13:20,993 - INFO - start backup
+2026-11-24 09:13:23,035 - INFO - backup created successfuly
+2026-11-24 09:13:23,035 - INFO - File size: 5242.00 KB
+2026-11-24 09:13:23,035 - INFO - Execution time: {duration:.2f} seconds
+2026-11-24 09:14:09,051 - INFO - backup start
+2026-11-24 09:14:09,052 - INFO - create folder
+2026-11-24 09:14:09,052 - INFO - Backup folder is ready
+2026-11-24 09:14:09,052 - INFO - start backup
+2026-11-24 09:14:11,158 - INFO - backup created successfuly
+2026-11-24 09:14:11,159 - INFO - File size: 5242.00 KB
+2026-11-24 09:14:11,159 - INFO - Execution time: {duraiton:.2f} seconds
+2026-11-24 09:14:25,789 - INFO - backup start
+2026-11-24 09:14:25,789 - INFO - create folder
+2026-11-24 09:14:25,789 - INFO - Backup folder is ready
+2026-11-24 09:14:25,789 - INFO - start backup
+2026-11-24 09:14:28,494 - INFO - backup created successfuly
+2026-11-24 09:14:28,494 - INFO - File size: 5242.00 KB
+2026-11-24 09:14:28,494 - INFO - Execution time: {duraiton:.2f} seconds
+2026-11-24 09:14:35,078 - INFO - backup start
+2026-11-24 09:14:35,078 - INFO - create folder
+2026-11-24 09:14:35,079 - INFO - Backup folder is ready
+2026-11-24 09:14:35,079 - INFO - start backup
+2026-11-24 09:14:37,137 - INFO - backup created successfuly
+2026-11-24 09:14:37,137 - INFO - File size: 5242.00 KB
+2026-11-24 09:14:37,137 - INFO - Execution time: 2.06 seconds
+2026-11-24 09:16:18,416 - INFO - backup start
+2026-11-24 09:16:18,416 - INFO - create folder
+2026-11-24 09:16:18,416 - INFO - Backup folder is ready
+2026-11-24 09:16:18,417 - INFO - start backup
+2026-11-24 09:16:20,043 - INFO - backup created successfuly
+2026-11-24 09:16:20,043 - INFO - File size: 5.12 KB
+2026-11-24 09:16:20,044 - INFO - Execution time: 1.63 seconds
+2026-11-24 09:16:38,217 - INFO - backup start
+2026-11-24 09:16:38,218 - INFO - create folder
+2026-11-24 09:16:38,218 - INFO - Backup folder is ready
+2026-11-24 09:16:38,218 - INFO - start backup
+2026-11-24 09:16:39,825 - INFO - backup created successfuly
+2026-11-24 09:16:39,825 - INFO - File size: 5.12 KB
+2026-11-24 09:16:39,825 - INFO - Execution time: 1.61 seconds
